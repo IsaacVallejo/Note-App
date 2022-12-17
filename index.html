@@ -6,36 +6,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Note App</title>
+    <title>Note App | IsaacVallejo</title>
 </head>
 
 <body>
-    <main class="popUpBox">
-        <section class="content">
-            <header>
-                <p>Add a new note</p>
-                <span class="icon-Header">x</span>
-            </header>
-            <form action="#">
-                <div class="row title">
-                    <label for="">Title</label>
-                    <input type="text">
-                </div>
-                <div class="row description">
-                    <label for="">Description</label>
-                    <textarea></textarea>
-                </div>
-                <button>Add Note</button>
-            </form>
-
-        </section>
-
-    </main>
-
+    <div class="popup-box">
+        <div class="popup">
+            <div class="content">
+                <header>
+                    <p></p>
+                    <i class="uil uil-times"></i>
+                </header>
+                <form action="#">
+                    <div class="row title">
+                        <label>Title</label>
+                        <input type="text" spellcheck="false">
+                    </div>
+                    <div class="row description">
+                        <label>Description</label>
+                        <textarea spellcheck="false"></textarea>
+                    </div>
+                    <button></button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <li class="add-box">
+            <div class="icon"><i class="uil uil-file-plus-alt"></i></div>
+            <p>Add new note</p>
+        </li>
+    </div>
     <script src="/app.js"></script>
 </body>
-
-
 
 </html>
