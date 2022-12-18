@@ -1,20 +1,20 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/isaac-vallejo/]
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-vallejo/)
+
+### Built With
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  
+  ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  
 
 <br />
 <div align="center">
 
-![icons8-google-forms-150](https://user-images.githubusercontent.com/49381080/208269346-fe75baa7-0f21-4898-b114-a4e2bdc8bcf5.png)
-
   <h3 align="center">Note App</h3>
 
-
-  ## About The Project
-    ## Instructions of application
+  ## Instructions of application
   
  ![Main_Screen_Resizer2](https://user-images.githubusercontent.com/49381080/208269012-b88ce1fa-eda6-46ba-9815-821d6e6a45da.png)
 ### Step 1  
@@ -38,10 +38,6 @@
 ![After_Update-Resizer](https://user-images.githubusercontent.com/49381080/208269149-010308ae-1f4b-4401-8935-18e8fe510822.png)
  * When clicking the edit function it will display the current nmote to update with new text or dates and will display as a new note.
   
-### Built With
-* [![HTML][JQuery.com]][JQuery-url]
-* [![CSS][JQuery.com]][JQuery-url]
-* [![JAVASCRIPT][JQuery.com]][JQuery-url]
-* [![JQUERY][Bootstrap.com]][Bootstrap-url]
 
-
+  
+  
